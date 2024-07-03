@@ -1,4 +1,4 @@
-# Confeitaria The Best Cupcake
+# Confeitaria The Best Cupcake 🧁
 
 
 <img src="" alt="imagem demonstração do projeto" width="600" >
