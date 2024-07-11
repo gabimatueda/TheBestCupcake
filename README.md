@@ -1,6 +1,6 @@
 # Landingpage Confeitaria 🧁
 
-## Uma confeitaria de cupcakes online, com uma ótima experiencia visual garantida.
+Uma confeitaria de cupcakes online, com uma ótima experiencia visual garantida.
 
 
 ## Layout 💻
